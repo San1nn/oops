@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+ 
 class Employee {
     int empid, salary;
     String name, address;
