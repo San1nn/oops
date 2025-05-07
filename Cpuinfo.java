@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Cpu {
-    int price;
+    int price 
     
     
     class Processor {
