@@ -1,7 +1,7 @@
 //13.Write a program to demonstrate the addition and deletion of elements in deque.
 import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.Scanner;
+import java.util.Scanner; 
 
 public class que {
     public static void main(String[] args) {
