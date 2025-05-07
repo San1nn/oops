@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-class Area { 
+class Area {  
 double calc(double r) { 
 return Math.PI * (r * r); 
 } 
