@@ -10,7 +10,7 @@ class Stringsrt
         {
             for(j=i+1;j<length;j++)
             {
-                if(arr[i].compareTo(arr[j])>0)
+                if(arr[i].compareTo(arr[j])>0) 
                 {
                     String temp = arr[i];
                     arr[i] = arr[j];
