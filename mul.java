@@ -2,7 +2,7 @@
 // Implement using threads.(Thread class) 
 
 import java.util.Scanner;
-class MultiplicationTable extends Thread {
+class MultiplicationTable extends Thread { 
     public void run() {
         System.out.println("Multiplication Table of 5:");
         for (int i = 1; i <= 10; i++) {
