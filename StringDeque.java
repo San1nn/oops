@@ -2,7 +2,7 @@ import java.util.Deque;
 import java.util.ArrayDeque;
 
 public class StringDeque {
-    public static void main(String[] args) {
+    public static void main(String[] args)  
         // Create a Deque of Strings
         Deque<String> deque = new ArrayDeque<>();
 
