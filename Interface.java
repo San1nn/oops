@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-interface Student {
+interface Student { 
     void getAcademicScore();
 }
 interface Sports {
