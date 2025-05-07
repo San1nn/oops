@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Product {
     int pcode, price;
-    String pname;
+    String pname; 
 
     Product(int code, String name, int pr) {
         pcode = code;
