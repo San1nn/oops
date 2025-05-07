@@ -3,7 +3,7 @@ import java.util.Scanner;
 class Publisher
 {
 	String pname;
-	int pyear;
+	int pyear; 
 	
 	Publisher(String name,int year)
 	{
